@@ -1,0 +1,32 @@
+body{
+  background-color: lightgrey;
+}
+h1{
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: black;
+
+}
+
+h2:hover{
+  color:yellow;
+  margin:auto;
+}
+
+h2{
+  color: blue;
+  font-weight: bold;
+}
+
+H1:HOVER{
+  COLOR:BLUE;
+}
+p{
+  background: lightgreen;
+}
+table{
+  background: red;
+  width:900px;
+  margin: auto;
+}
